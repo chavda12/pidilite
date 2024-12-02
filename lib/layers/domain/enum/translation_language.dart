@@ -1,0 +1,4 @@
+enum TranslationLanguage {
+  hindi,
+  english,
+}
